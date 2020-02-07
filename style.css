@@ -1,0 +1,7 @@
+.bg {
+  background-image: url(img/drink.jpg);
+  width: 100vpw;
+  height: 100vph;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
